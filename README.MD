@@ -2,6 +2,12 @@
 
 Discensorは、Discordのチャットを監視し、日本語以外の文字列が設定されている数値以上使用されたメッセージが送信されると、そのメッセージを削除します。
 
+
+
+https://user-images.githubusercontent.com/113443658/228886596-349bf45b-1393-4c8d-a0ee-cd79109bac83.mov
+
+
+
 ## 動作確認済環境
 - Apple M1 Macbook Air
 - MacOS Ventura 13.1
