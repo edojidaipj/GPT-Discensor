@@ -1,4 +1,4 @@
-from OpenAiClient import request_openai
+from OpenAIClient import request_openai
 
 
 # ChatGPTを使ってメッセージを検証する
